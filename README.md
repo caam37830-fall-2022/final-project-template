@@ -11,6 +11,7 @@ In this project you will be working in a team of three people.
 
 ### Due Date
 This project is due the last week of this quarter (Sunday, Dec 4 at midnight Chicago time).
+
 You should make sure you have pushed your completed work to GitHub by this time.
 
 ### Group Assignment
