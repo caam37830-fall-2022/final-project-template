@@ -9,6 +9,10 @@ In this project you will be working in a team of three people.
 2. Start thinking about what you want to do for your project. The course staff can also suggest potential topics.
 3. Mid-term review: in about two weeks the course staff will meet with each team to discuss the project plans, provide feedbacks and give recommendations.
 
+### Due Date
+This project is due the last week of this quarter (Sunday, Dec 4 at midnight Chicago time).
+You should make sure you have pushed your completed work to GitHub by this time.
+
 ### Group Assignment
 
 This is a group assignment.  You will share a `git` repository, and work will be shared.  Evaluation will be done on the group repository, but everyone should understand the code and answers.  You can (and should) look at code that any group member writes and look for ways to improve it, for example, by adding comments, improving docstrings, or catching bugs. You can talk to people in other groups, but shouldn't share code/answers.
