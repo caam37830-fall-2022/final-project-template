@@ -7,7 +7,7 @@ In this project you will be working in a team of three people.
 ### To-do List
 1. Meet with your team members if you haven't done so.
 2. Start thinking about what you want to do for your project. The course staff can also suggest potential topics.
-3. In ~two weeks the course staff will meet with each team to discuss the project plans, provide feedbacks and give recommendations.
+3. In two weeks the course staff will meet with each team to discuss the project plans, provide feedbacks and give recommendations.
 
 ### Group Assignment
 
